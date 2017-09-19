@@ -2,10 +2,10 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>meinbergntp</id>
-    <version>4.2.8.10</version>
+    <version>4.2.8.1000</version>
     <packageSourceUrl>https://github.com/sdaaish/ntp/tree/master</packageSourceUrl>
     <owners>sdaaish</owners>
-    <title>Meinberg-NTP (Install)</title>
+    <title>Meinberg NTP (Install)</title>
     <authors>Werner Meinberg</authors>
     <projectUrl>https://www.meinbergglobal.com/english/sw/ntp.htm</projectUrl>
     <copyright>Meinberg Funkuhren GmbH &amp; Co KG</copyright>
